@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CareLoop</string>
+    <string name="window_title">CareLoop | Missed Appointment Safety Net</string>
+    <string name="demo_banner_text">Demo with fake data only</string>
+    <string name="login_tagline">Fewer missed appointments. Safer follow-ups.</string>
+    <string name="sign_in">Sign in</string>
+    <string name="logout">Logout</string>
+    <string name="audit_log">Audit log</string>
+    <string name="role_receptionist">Receptionist</string>
+    <string name="role_doctor">Doctor</string>
+    <string name="role_patient">Patient</string>
+    <string name="send_reminder">Send reminder</string>
+    <string name="blocked_no_consent">Blocked: no consent.</string>
+    <string name="reminder_sent_simulated">Reminder sent (simulated).</string>
+    <string name="approve">Approve</string>
+    <string name="override_action">Override</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+</resources>

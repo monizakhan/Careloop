@@ -1,0 +1,8 @@
+{
+  "name": "CareLoop 3.0",
+  "description": "Simple clinic follow-up demo app to reduce missed appointments with role views, risk scoring, consent checks, and an audit log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
