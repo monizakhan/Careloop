@@ -15,8 +15,8 @@ A mobile healthcare app for small outpatient clinics that finds missed appointme
 | | |
 |---|---|
 | Demo video | [paste your video link] |
-| Android app (APK) | [paste your Google Drive link] |
-| Slides | [paste your slides link, if any] |
+| Android app (APK) | https://drive.google.com/file/d/1sy-1-tpSogDD24wgn_wScqLdMRfE8yLl/view?usp=drivesdk |
+
 
 ---
 
